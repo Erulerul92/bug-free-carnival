@@ -1,4 +1,3 @@
-<?php
 
 define('BOT_TOKEN', 'HTTP API:
 7967052159:AAH5vuW2rBDesLwUfCMKQ_FX-i8ISaOAFy8'); // Replace with new token after revoke
